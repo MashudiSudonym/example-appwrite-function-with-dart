@@ -11,11 +11,11 @@ Future<dynamic> main(final context) async {
   final database = Databases(client);
 
   try {
-    await database.listDocuments(
+    final documents = await database.listDocuments(
       databaseId: '649fbcca22cf7b243ded',
       collectionId: '649fbcd2ae86c3fb7c07',
     );
-    context.log('success');
+    context.log(documents.documents);
   } on AppwriteException catch (e) {
     context.error(e);
   }
