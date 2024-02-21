@@ -15,7 +15,10 @@ Future<dynamic> main(final context) async {
       databaseId: '649fbcca22cf7b243ded',
       collectionId: '649fbcd2ae86c3fb7c07',
     );
-    context.log(documents.documents);
+
+    for (var element in documents.documents) {
+      context.log(element.data);
+    }
   } on AppwriteException catch (e) {
     context.error(e);
   }
