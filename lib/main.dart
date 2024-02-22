@@ -25,7 +25,7 @@ Future<dynamic> main(final context) async {
   //   context.error(e);
   // }
 
-  final data = await readFile('data.json');
+  final data = await readFile('banks.json');
   context.log(data);
 
   return context.res.send("Check the Appwrite Console to see logs and errors!");
