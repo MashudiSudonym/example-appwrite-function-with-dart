@@ -1,0 +1,616 @@
+{
+  "banks": [
+    {
+      "bankCode": "agris",
+      "bankName": "PT. BANK AGRIS"
+    },
+    {
+      "bankCode": "agris",
+      "bankName": "PT. BANK AGRIS"
+    },
+    {
+      "bankCode": "agris",
+      "bankName": "PT. BANK AGRIS"
+    },
+    {
+      "bankCode": "agroniaga",
+      "bankName": "PT. BANK RAKYAT INDONESIA AGRONIAGA TBK."
+    },
+    {
+      "bankCode": "allo",
+      "bankName": "PT. ALLO BANK INDONESIA TBK."
+    },
+    {
+      "bankCode": "amar",
+      "bankName": "PT. BANK AMAR INDONESIA"
+    },
+    {
+      "bankCode": "andara",
+      "bankName": "PT. BANK ANDARA"
+    },
+    {
+      "bankCode": "anglomas",
+      "bankName": "PT. ANGLOMAS INTERNATIONAL BANK"
+    },
+    {
+      "bankCode": "antar_daerah",
+      "bankName": "PT. BANK ANTAR DAERAH"
+    },
+    {
+      "bankCode": "anz",
+      "bankName": "PT. BANK ANZ INDONESIA"
+    },
+    {
+      "bankCode": "artajasa",
+      "bankName": "PT. ARTAJASA"
+    },
+    {
+      "bankCode": "artha",
+      "bankName": "PT. BANK ARTHA GRAHA INTERNASIONAL TBK."
+    },
+    {
+      "bankCode": "bali",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH BALI"
+    },
+    {
+      "bankCode": "bangkok",
+      "bankName": "BANGKOK BANK PUBLIC CO.LTD"
+    },
+    {
+      "bankCode": "banten",
+      "bankName": "PT. BANK BANTEN"
+    },
+    {
+      "bankCode": "barclays",
+      "bankName": "PT BANK BARCLAYS INDONESIA"
+    },
+    {
+      "bankCode": "bca",
+      "bankName": "PT. BANK CENTRAL ASIA TBK."
+    },
+    {
+      "bankCode": "bcad",
+      "bankName": "PT. BANK DIGITAL BCA"
+    },
+    {
+      "bankCode": "bca_syar",
+      "bankName": "PT. BANK BCA SYARIAH"
+    },
+    {
+      "bankCode": "bengkulu",
+      "bankName": "PT. BPD BENGKULU"
+    },
+    {
+      "bankCode": "bisnis",
+      "bankName": "PT. BANK BISNIS INTERNASIONAL"
+    },
+    {
+      "bankCode": "bjb",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH JABAR DAN BANTEN"
+    },
+    {
+      "bankCode": "bjb_syar",
+      "bankName": "PT. BANK JABAR BANTEN SYARIAH"
+    },
+    {
+      "bankCode": "bni",
+      "bankName": "PT. BANK NEGARA INDONESIA (PERSERO)"
+    },
+    {
+      "bankCode": "bnp",
+      "bankName": "PT. BANK NUSANTARA PARAHYANGAN"
+    },
+    {
+      "bankCode": "bnp_paribas",
+      "bankName": "PT. BANK BNP PARIBAS INDONESIA"
+    },
+    {
+      "bankCode": "boa",
+      "bankName": "BANK OF AMERICA NA"
+    },
+    {
+      "bankCode": "bri",
+      "bankName": "PT. BANK RAKYAT INDONESIA (PERSERO)"
+    },
+    {
+      "bankCode": "bsi",
+      "bankName": "PT. BANK SYARIAH INDONESIA TBK."
+    },
+    {
+      "bankCode": "btn",
+      "bankName": "PT. BANK TABUNGAN NEGARA (PERSERO)"
+    },
+    {
+      "bankCode": "btn_syar",
+      "bankName": "PT. BANK TABUNGAN NEGARA (PERSERO) UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "btpn",
+      "bankName": "PT. BANK BTPN"
+    },
+    {
+      "bankCode": "btpn_syar",
+      "bankName": "PT. BANK TABUNGAN PENSIUNAN NASIONAL SYARIAH"
+    },
+    {
+      "bankCode": "bukopin",
+      "bankName": "PT BANK KB BUKOPIN TBK."
+    },
+    {
+      "bankCode": "bukopin_syar",
+      "bankName": "PT. BANK SYARIAH BUKOPIN"
+    },
+    {
+      "bankCode": "bumiputera",
+      "bankName": "PT. BANK BUMIPUTERA"
+    },
+    {
+      "bankCode": "bumi_artha",
+      "bankName": "PT. BANK BUMI ARTA"
+    },
+    {
+      "bankCode": "capital",
+      "bankName": "PT BANK CAPITAL INDONESIA"
+    },
+    {
+      "bankCode": "centratama",
+      "bankName": "PT. CENTRATAMA NASIONAL BANK"
+    },
+    {
+      "bankCode": "chase",
+      "bankName": "JP MORGAN CHASE BANK, N.A"
+    },
+    {
+      "bankCode": "china",
+      "bankName": "BANK OF CHINA"
+    },
+    {
+      "bankCode": "china_cons",
+      "bankName": "CHINA CONSTRUCTION"
+    },
+    {
+      "bankCode": "chinatrust",
+      "bankName": "PT. BANK CTBC INDONESIA"
+    },
+    {
+      "bankCode": "cimb",
+      "bankName": "PT. BANK CIMB NIAGA TBK."
+    },
+    {
+      "bankCode": "cimb_syar",
+      "bankName": "PT. BANK CIMB NIAGA TBK. - UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "cimb_rekening_ponsel",
+      "bankName": "PT. BANK CIMB NIAGA TBK. - REKENING PONSEL"
+    },
+    {
+      "bankCode": "cimb_va",
+      "bankName": "PT. BANK CIMB NIAGA TBK. - VIRTUAL ACCOUNT"
+    },
+    {
+      "bankCode": "citibank",
+      "bankName": "CITIBANK, NA"
+    },
+    {
+      "bankCode": "commonwealth",
+      "bankName": "PT. BANK COMMONWEALTH"
+    },
+    {
+      "bankCode": "danamon",
+      "bankName": "PT. BANK DANAMON INDONESIA TBK."
+    },
+    {
+      "bankCode": "danamon_syar",
+      "bankName": "PT. BANK DANAMON INDONESIA UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "dbs",
+      "bankName": "PT. BANK DBS INDONESIA"
+    },
+    {
+      "bankCode": "deutsche",
+      "bankName": "DEUTSCHE BANK AG."
+    },
+    {
+      "bankCode": "dipo",
+      "bankName": "PT. BANK DIPO INTERNATIONAL"
+    },
+    {
+      "bankCode": "diy",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH DIY"
+    },
+    {
+      "bankCode": "diy_syar",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH DIY UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "dki",
+      "bankName": "PT. BANK DKI"
+    },
+    {
+      "bankCode": "dki_syar",
+      "bankName": "PT. BANK DKI UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "ekonomi",
+      "bankName": "PT. BANK EKONOMI RAHARJA"
+    },
+    {
+      "bankCode": "fama",
+      "bankName": "PT. BANK FAMA INTERNATIONAL"
+    },
+    {
+      "bankCode": "ganesha",
+      "bankName": "PT. BANK GANESHA"
+    },
+    {
+      "bankCode": "gopay",
+      "bankName": "GO-PAY"
+    },
+    {
+      "bankCode": "hana",
+      "bankName": "PT. BANK KEB HANA INDONESIA"
+    },
+    {
+      "bankCode": "hs_1906",
+      "bankName": "PT. BANK HS 1906"
+    },
+    {
+      "bankCode": "hsbc",
+      "bankName": "PT. BANK HSBC INDONESIA"
+    },
+    {
+      "bankCode": "icbc",
+      "bankName": "PT. BANK ICBC INDONESIA"
+    },
+    {
+      "bankCode": "ina_perdana",
+      "bankName": "PT. BANK INA PERDANA"
+    },
+    {
+      "bankCode": "index_selindo",
+      "bankName": "BANK INDEX SELINDO"
+    },
+    {
+      "bankCode": "india",
+      "bankName": "PT. BANK OF INDIA INDONESIA TBK."
+    },
+    {
+      "bankCode": "jago",
+      "bankName": "PT. BANK JAGO TBK."
+    },
+    {
+      "bankCode": "jago_syar",
+      "bankName": "PT. BANK JAGO UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "jambi",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH JAMBI"
+    },
+    {
+      "bankCode": "jasa_jakarta",
+      "bankName": "PT. BANK JASA JAKARTA"
+    },
+    {
+      "bankCode": "jateng",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH JAWA TENGAH"
+    },
+    {
+      "bankCode": "jateng_syar",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH JAWA TENGAH"
+    },
+    {
+      "bankCode": "jatim",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH JATIM"
+    },
+    {
+      "bankCode": "jatim_syar",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH JATIM - UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "jtrust",
+      "bankName": "PT. BANK JTRUST INDONESIA TBK."
+    },
+    {
+      "bankCode": "kalbar",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH KALBAR"
+    },
+    {
+      "bankCode": "kalbar_syar",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH KALBAR UUS"
+    },
+    {
+      "bankCode": "kalsel",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH KALSEL"
+    },
+    {
+      "bankCode": "kalsel_syar",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH KALSEL - UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "kalteng",
+      "bankName": "PT. BPD KALIMANTAN TENGAH"
+    },
+    {
+      "bankCode": "kaltim",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH KALTIM"
+    },
+    {
+      "bankCode": "kaltim_syar",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH KALTIM - UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "lampung",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH LAMPUNG"
+    },
+    {
+      "bankCode": "maluku",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH MALUKU"
+    },
+    {
+      "bankCode": "mandiri",
+      "bankName": "PT. BANK MANDIRI (PERSERO) TBK."
+    },
+    {
+      "bankCode": "mandiri_taspen",
+      "bankName": "PT. BANK MANDIRI TASPEN POS"
+    },
+    {
+      "bankCode": "maspion",
+      "bankName": "PT. BANK MASPION"
+    },
+    {
+      "bankCode": "mayapada",
+      "bankName": "PT. BANK MAYAPADA TBK."
+    },
+    {
+      "bankCode": "maybank",
+      "bankName": "PT. BANK MAYBANK INDONESIA TBK."
+    },
+    {
+      "bankCode": "maybank_syar",
+      "bankName": "PT. BANK MAYBANK SYARIAH INDONESIA"
+    },
+    {
+      "bankCode": "maybank_uus",
+      "bankName": "PT. BANK MAYBANK INDONESIA TBK. UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "mayora",
+      "bankName": "PT. BANK MAYORA"
+    },
+    {
+      "bankCode": "mega_syar",
+      "bankName": "PT. BANK MEGA SYARIAH"
+    },
+    {
+      "bankCode": "mega_tbk",
+      "bankName": "PT. BANK MEGA TBK."
+    },
+    {
+      "bankCode": "mestika",
+      "bankName": "PT. BANK MESTIKA DHARMA"
+    },
+    {
+      "bankCode": "metro",
+      "bankName": "PT. BANK METRO EXPRESS"
+    },
+    {
+      "bankCode": "mitraniaga",
+      "bankName": "PT. BANK MITRANIAGA"
+    },
+    {
+      "bankCode": "mitsubishi",
+      "bankName": "THE BANK OF TOKYO MITSUBISHI UFJ LTD."
+    },
+    {
+      "bankCode": "mizuho",
+      "bankName": "PT. BANK MIZUHO INDONESIA"
+    },
+    {
+      "bankCode": "mnc",
+      "bankName": "PT. BANK MNC INTERNASIONAL TBK."
+    },
+    {
+      "bankCode": "muamalat",
+      "bankName": "PT. BANK MUAMALAT INDONESIA"
+    },
+    {
+      "bankCode": "multiarta",
+      "bankName": "PT. BANK MULTI ARTA SENTOSA"
+    },
+    {
+      "bankCode": "mutiara",
+      "bankName": "PT. BANK MUTIARA TBK."
+    },
+    {
+      "bankCode": "niaga_syar",
+      "bankName": "PT. BANK NIAGA TBK. SYARIAH"
+    },
+    {
+      "bankCode": "nagari",
+      "bankName": "PT. BANK NAGARI"
+    },
+    {
+      "bankCode": "nobu",
+      "bankName": "PT. BANK NATIONALNOBU"
+    },
+    {
+      "bankCode": "ntb",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH NTB"
+    },
+    {
+      "bankCode": "ntt",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH NTT"
+    },
+    {
+      "bankCode": "ocbc",
+      "bankName": "PT. BANK OCBC NISP TBK."
+    },
+    {
+      "bankCode": "ocbc_syar",
+      "bankName": "PT. BANK OCBC NISP TBK. - UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "ok",
+      "bankName": "PT. BANK OKE INDONESIA"
+    },
+    {
+      "bankCode": "ovo",
+      "bankName": "OVO"
+    },
+    {
+      "bankCode": "panin",
+      "bankName": "PT. PANIN BANK TBK."
+    },
+    {
+      "bankCode": "panin_syar",
+      "bankName": "PT. BANK PANIN SYARIAH"
+    },
+    {
+      "bankCode": "papua",
+      "bankName": "PT.BANK PEMBANGUNAN DAERAH PAPUA"
+    },
+    {
+      "bankCode": "permata",
+      "bankName": "PT. BANK PERMATA TBK."
+    },
+    {
+      "bankCode": "permata_syar",
+      "bankName": "PT. BANK PERMATA TBK. UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "permata_va",
+      "bankName": "PT. BANK PERMATA TBK. - VIRTUAL ACCOUNT"
+    },
+    {
+      "bankCode": "prima_master",
+      "bankName": "PT. PRIMA MASTER BANK"
+    },
+    {
+      "bankCode": "pundi",
+      "bankName": "PT. BANK PUNDI INDONESIA"
+    },
+    {
+      "bankCode": "purba",
+      "bankName": "PT. BANK PURBA DANARTA"
+    },
+    {
+      "bankCode": "qnb",
+      "bankName": "PT. BANK QNB INDONESIA TBK."
+    },
+    {
+      "bankCode": "rabobank",
+      "bankName": "PT. BANK RABOBANK INTERNATIONAL INDONESIA"
+    },
+    {
+      "bankCode": "rbos",
+      "bankName": "THE ROYAL BANK OF SCOTLAND N.V."
+    },
+    {
+      "bankCode": "resona",
+      "bankName": "PT. BANK RESONA PERDANIA"
+    },
+    {
+      "bankCode": "riau",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH RIAU KEPRI"
+    },
+    {
+      "bankCode": "riau_syar",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH RIAU KEPRI SYARIAH"
+    },
+    {
+      "bankCode": "sampoerna",
+      "bankName": "PT. BANK SAHABAT SAMPOERNA"
+    },
+    {
+      "bankCode": "sbi",
+      "bankName": "PT. BANK SBI INDONESIA"
+    },
+    {
+      "bankCode": "seabank",
+      "bankName": "PT. BANK SEABANK INDONESIA"
+    },
+    {
+      "bankCode": "shinhan",
+      "bankName": "PT. BANK SHINHAN INDONESIA"
+    },
+    {
+      "bankCode": "sinarmas",
+      "bankName": "PT. BANK SINARMAS"
+    },
+    {
+      "bankCode": "sinarmas_syar",
+      "bankName": "PT. BANK SINARMAS UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "stanchard",
+      "bankName": "STANDARD CHARTERED BANK"
+    },
+    {
+      "bankCode": "sulselbar",
+      "bankName": "PT. BANK SULSELBAR"
+    },
+    {
+      "bankCode": "sulselbar_syar",
+      "bankName": "PT. BANK SULSELBAR UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "sulteng",
+      "bankName": "PT. BPD SULAWESI TENGAH"
+    },
+    {
+      "bankCode": "sultenggara",
+      "bankName": "PT. BPD SULAWESI TENGGARA"
+    },
+    {
+      "bankCode": "sulut",
+      "bankName": "PT. BANK SULUTGO"
+    },
+    {
+      "bankCode": "sumbar",
+      "bankName": "BPD SUMATERA BARAT"
+    },
+    {
+      "bankCode": "sumitomo",
+      "bankName": "PT. BANK SUMITOMO MITSUI INDONESIA"
+    },
+    {
+      "bankCode": "sumsel_babel",
+      "bankName": "PT. BPD SUMSEL DAN BABEL"
+    },
+    {
+      "bankCode": "sumsel_babel_syar",
+      "bankName": "PT. BPD SUMSEL DAN BABEL UNIT USAHA SYARIAH"
+    },
+    {
+      "bankCode": "sumut",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH SUMUT"
+    },
+    {
+      "bankCode": "sumut_syar",
+      "bankName": "PT. BANK PEMBANGUNAN DAERAH SUMUT UUS"
+    },
+    {
+      "bankCode": "uob",
+      "bankName": "PT. BANK UOB INDONESIA"
+    },
+    {
+      "bankCode": "victoria",
+      "bankName": "PT. BANK VICTORIA INTERNATIONAL"
+    },
+    {
+      "bankCode": "victoria_syar",
+      "bankName": "PT. BANK VICTORIA SYARIAH"
+    },
+    {
+      "bankCode": "woori",
+      "bankName": "PT. BANK WOORI SAUDARA INDONESIA 1906 TBK."
+    },
+    {
+      "bankCode": "yudha_bhakti",
+      "bankName": "PT. BANK YUDHA BHAKTI"
+    }
+  ]
+}
